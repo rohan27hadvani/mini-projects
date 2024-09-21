@@ -1,0 +1,13 @@
+body {
+    @apply bg-black text-white font-mono
+}
+
+.counter-btn {
+    @apply rounded-lg border-2 border-solid border-transparent text-sm p-3 bg-slate-700 cursor-pointer delay-75 hover:border-blue-500 
+}
+
+
+button:focus,
+button:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+}

@@ -1,13 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>
-        Test
-      </h1>
+    <div>
+      <div className='my-4'>
+        Mini Projects
+      </div>
     </div>
+   
   );
 }
 
